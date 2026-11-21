@@ -1,0 +1,25 @@
+# EasyEDA Pro automatic backup / recovery files
+# Auto backups are saved into "<project name>_backup" folders
+*_backup/
+*_backups/
+projects_backup/
+projects-recovery/
+online-projects-backup/
+
+# EasyEDA backup/recovery archives (.eprj in the project path is a backup copy)
+*.epro
+*.epro2
+*.eprj
+*.zip
+
+# Generic backup, swap and temporary files
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*.temp
+*.swp
+*~
+~*
+.~lock.*
