@@ -25,7 +25,7 @@ The PicoPad is a wired game controller powered by a RP2354A and contains 9 butto
 
 
 
-Look at the [Fabrication Files](Fabrication%20files) folder you should be able to see the the Gerbers, Pick and Place files and BOM\_PCB. Look at the latest revision which at the time of me writing is V1 but it may be different later.
+Look at the [Fabrication Files](Fabrication%20files) folder you should be able to see the the Gerbers, Pick and Place files and BOM_PCB. Look at the latest revision which at the time of me writing is V1 but it may be different later.
 
 
 
@@ -37,7 +37,18 @@ After you have the files you can send them to any manufacturer which can give yo
 
 
 
-You will be able to find the Firmware in the repo as well. Use the IDE of your choice to flash the RP2350 using the USB port.
+We will be using the ardunio IDE to flash our board. for that we will use <a href="https://github.com/earlephilhower/arduino-pico"> Ardunio Pico GitHub </a> 
+
+**Step 1**
+Open Arduino Ide and go to File and then prefrences from there you should be able to add 
+`https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json` 
+After that you should be able to see the PICO in a baord manager.
+
+**Step 2**
+You will be able to find the Firmware in the repo in the [Firmware](Firmware) folder. Open that code in the Arduino IDE.
+
+**Step 3**
+Plug in the board while shorting the BOOT_SEL pad near the bottom left of the USB port. When you plug in your PCB the IDE should recognise it and you will be able to upload your code.
 
 
 
@@ -55,7 +66,16 @@ The requirements required me to have a working project which I can demo at the e
 
 
 
-### Pictures!
+### BOM
+
+
+| ITEM | Price | NOTE |
+| --- | --- | --- |
+| PCB | $5| 10 X PCBs |
+| PCBA | $102 | All parts included |
+| Delivery | $45| Delivery |
+
+**NOTE this is not the full BOM please look at [BOM.CSV](BOM.csv) here!**
 
 
 
