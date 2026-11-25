@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="images/PCB_BLK_F.png" alt="PCB front image" width="30%" />
-  <img src="images/PCB_BLK_B.png" alt="Second view" width="30%" />
+  <img src="Images/PCB_BLK_F.png" alt="PCB front image" width="30%" />
+  <img src="Images/PCB_BLK_B.png" alt="Second view" width="30%" />
 </p>
 
 # Pico pad game controller
