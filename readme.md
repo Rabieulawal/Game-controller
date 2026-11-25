@@ -1,8 +1,17 @@
+<p align="center">
+  <img src="images/PCB_BLK_F.png" alt="PCB front image" width="30%" />
+  <img src="images/PCB_BLK_B.png" alt="Second view" width="30%" />
+</p>
+
 # Pico pad game controller
 
 
 
 The PicoPad is a wired game controller powered by a RP2354A and contains 9 buttons and 11 leds. The controller will be plug and play and be able to control 10 leds independently all while using less then 500 milliamps which makes it compatible to use with older usb 2.0 devices.
+
+
+
+
 
 
 
@@ -20,7 +29,7 @@ Look at the [Fabrication Files](Fabrication%20files) folder you should be able t
 
 
 
-After you have the files you can send them to any manufacturer which can give you the PCB and PCBA. You can skip buying PCBA if you have the equipment and skills for soldering 0402 and QFN-58 packages. But it is highly recommended for beginners to get PCBA or have a experienced person who has the specialist equipment to solder it for you.  
+After you have the files you can send them to any manufacturer which can give you the PCB and PCBA. You can skip buying PCBA if you have the equipment and skills for soldering 0402 and QFN-58 packages. But it is highly recommended for beginners to get PCBA or have a experienced person who has the specialist equipment to solder it for you.
 
 
 
@@ -85,30 +94,4 @@ This repo has all the files needed to replicate this design. If you find that I 
 
 
 ### &#x20;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
