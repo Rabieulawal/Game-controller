@@ -95,9 +95,21 @@ The requirements required me to have a working project which I can demo at the e
 
 ### Files
 
+[Fabrication Files](Fabrication%20files) includes the gerbers, Pick and Place and the PCB BOM
+
+[SCHEMATIC](Schmatic.pdf)  *According to the reqss for fallen*
+
+[ALL external assets used](Assets%20used)
+
+[Images in the readme](images)
+
+[3D model of the PCB](3D%20model)
+
+
 
 
 This repo has all the files needed to replicate this design. If you find that I did anything wrong or am missing something I will love to make the changes required.
+
 
 
 
