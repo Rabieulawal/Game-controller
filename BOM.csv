@@ -1,35 +1,35 @@
-Record Type,Cost Item,Part Detail,Selected by,Top Designator(s),Quantity,Unit,Source,Amount (USD)
-Order info,PCBA order quantity,,,,10,boards,JLCPCB cart,
-Component detail,JLCPCB part,TSD016A05018A,Extended C2888597,"SW1,SW2,SW3,SW4...",91,pieces,JLCPCB,1.4833
-Component detail,JLCPCB part,AOTA-B201610S3R3-101-T,Extended C42411119,L1,11,pieces,JLCPCB,3.443
-Component detail,JLCPCB part,CL21A106KAYNNNE,Basic C15850,"C2,C3",30,pieces,JLCPCB,0.936
-Component detail,JLCPCB part,CL05A106MQ5NUNC,Basic C15525,"C19,C20",30,pieces,JLCPCB,0.57
-Component detail,JLCPCB part,0402CG150J500NT,Basic C1548,"C7,C8",30,pieces,JLCPCB,0.057
-Component detail,JLCPCB part,0402WGF3300TCE,Basic C25104,"R6,R7,R8,R10,R1...",110,pieces,JLCPCB,0.121
-Component detail,JLCPCB part,0402WGF330JTCE,Basic C25105,R4,25,pieces,JLCPCB,0.025
-Component detail,JLCPCB part,0402WGF1001TCE,Basic C11702,"R5,R9",30,pieces,JLCPCB,0.033
-Component detail,JLCPCB part,CL05B104KO5NNNC,Basic C1525,"C9,C10,C11,C12,...",115,pieces,JLCPCB,0.3335
-Component detail,JLCPCB part,0402WGF1004TCE,Basic C26083,R1,25,pieces,JLCPCB,0.025
-Component detail,JLCPCB part,RP2354A,Extended C41378174,U1,10,pieces,JLCPCB,12.3
-Component detail,JLCPCB part,NCD0805R1,Basic C84256,"LED1,LED2,LED3,...",70,pieces,JLCPCB,0.917
-Component detail,JLCPCB part,0603WAF270JT5E,Extended C25190,"R2,R3",30,pieces,JLCPCB,0.051
-Component detail,JLCPCB part,1N4148W,Basic C81598,"D1,D2,D3,D4,D5,...",104,pieces,JLCPCB,1.2792
-Component detail,JLCPCB part,AMS1117-3.3,Basic C6186,U2,10,pieces,JLCPCB,2.015
-Component detail,JLCPCB part,1206B102K202NT,Basic C9196,C1,20,pieces,JLCPCB,0.342
-Component detail,JLCPCB part,KT-0603W,Basic C2290,"LED7,LED8,LED9,...",60,pieces,JLCPCB,0.738
-Component detail,JLCPCB part,X322512MSB4SI,Basic C9002,X1,12,pieces,JLCPCB,1.0956
-Component detail,JLCPCB part,920-C62A2021S10100,Extended C40939,USB1,10,pieces,JLCPCB,0.883
-Component detail,JLCPCB part,CL05A475MP5NRNC,Basic C23733,"C4,C5,C6",40,pieces,JLCPCB,0.324
-Project cost,PCB price,,,,1,order,JLCPCB cart,5
-Project cost,Setup fee,,,,1,fee,JLCPCB cart,25.75
-Project cost,Stencil,,,,1,fee,JLCPCB cart,8.27
-Project cost,Panel,,,,1,fee,JLCPCB cart,0
-Project cost,Large size,,,,1,fee,JLCPCB cart,0
-Project cost,Feeders loading fee,,,,1,fee,JLCPCB cart,29.45
-Project cost,SMT assembly,,,,1,fee,JLCPCB cart,3.8
-Project cost,Hand-soldering labor fee,,,,1,fee,JLCPCB cart,3.61
-Project cost,Manual assembly,,,,1,fee,JLCPCB cart,3
-Project cost,Packaging fee,,,,1,fee,JLCPCB cart,0.52
-Project cost,Special components fee,,,,1,fee,JLCPCB cart,0.3
-Project cost,Estimated shipping,,,,1,shipment,JLCPCB cart,44.13
-Project cost,Coupon,,,,1,discount,JLCPCB cart,-9
+Record Type,Cost Item,Part Detail,Selected by,Top Designator(s),Unit,Source,Line Total (USD),JLC Part URL
+Order info,PCBA order quantity (10 boards),,,,boards,JLCPCB cart,,
+Component detail,JLCPCB part,TSD016A05018A,Extended C2888597,"SW1,SW2,SW3,SW4...",pieces,JLCPCB,1.4833,https://jlcpcb.com/partdetail/C2888597
+Component detail,JLCPCB part,AOTA-B201610S3R3-101-T,Extended C42411119,L1,pieces,JLCPCB,3.443,https://jlcpcb.com/partdetail/C42411119
+Component detail,JLCPCB part,CL21A106KAYNNNE,Basic C15850,"C2,C3",pieces,JLCPCB,0.936,https://jlcpcb.com/partdetail/C15850
+Component detail,JLCPCB part,CL05A106MQ5NUNC,Basic C15525,"C19,C20",pieces,JLCPCB,0.57,https://jlcpcb.com/partdetail/C15525
+Component detail,JLCPCB part,0402CG150J500NT,Basic C1548,"C7,C8",pieces,JLCPCB,0.057,https://jlcpcb.com/partdetail/C1548
+Component detail,JLCPCB part,0402WGF3300TCE,Basic C25104,"R6,R7,R8,R10,R1...",pieces,JLCPCB,0.121,https://jlcpcb.com/partdetail/C25104
+Component detail,JLCPCB part,0402WGF330JTCE,Basic C25105,R4,pieces,JLCPCB,0.025,https://jlcpcb.com/partdetail/C25105
+Component detail,JLCPCB part,0402WGF1001TCE,Basic C11702,"R5,R9",pieces,JLCPCB,0.033,https://jlcpcb.com/partdetail/C11702
+Component detail,JLCPCB part,CL05B104KO5NNNC,Basic C1525,"C9,C10,C11,C12,...",pieces,JLCPCB,0.3335,https://jlcpcb.com/partdetail/C1525
+Component detail,JLCPCB part,0402WGF1004TCE,Basic C26083,R1,pieces,JLCPCB,0.025,https://jlcpcb.com/partdetail/C26083
+Component detail,JLCPCB part,RP2354A,Extended C41378174,U1,pieces,JLCPCB,12.3,https://jlcpcb.com/partdetail/C41378174
+Component detail,JLCPCB part,NCD0805R1,Basic C84256,"LED1,LED2,LED3,...",pieces,JLCPCB,0.917,https://jlcpcb.com/partdetail/C84256
+Component detail,JLCPCB part,0603WAF270JT5E,Extended C25190,"R2,R3",pieces,JLCPCB,0.051,https://jlcpcb.com/partdetail/C25190
+Component detail,JLCPCB part,1N4148W,Basic C81598,"D1,D2,D3,D4,D5,...",pieces,JLCPCB,1.2792,https://jlcpcb.com/partdetail/C81598
+Component detail,JLCPCB part,AMS1117-3.3,Basic C6186,U2,pieces,JLCPCB,2.015,https://jlcpcb.com/partdetail/C6186
+Component detail,JLCPCB part,1206B102K202NT,Basic C9196,C1,pieces,JLCPCB,0.342,https://jlcpcb.com/partdetail/C9196
+Component detail,JLCPCB part,KT-0603W,Basic C2290,"LED7,LED8,LED9,...",pieces,JLCPCB,0.738,https://jlcpcb.com/partdetail/C2290
+Component detail,JLCPCB part,X322512MSB4SI,Basic C9002,X1,pieces,JLCPCB,1.0956,https://jlcpcb.com/partdetail/C9002
+Component detail,JLCPCB part,920-C62A2021S10100,Extended C40939,USB1,pieces,JLCPCB,0.883,https://jlcpcb.com/partdetail/C40939
+Component detail,JLCPCB part,CL05A475MP5NRNC,Basic C23733,"C4,C5,C6",pieces,JLCPCB,0.324,https://jlcpcb.com/partdetail/C23733
+Project cost,PCB price,,,,order,JLCPCB cart,5,
+Project cost,Setup fee,,,,fee,JLCPCB cart,25.75,
+Project cost,Stencil,,,,fee,JLCPCB cart,8.27,
+Project cost,Panel,,,,fee,JLCPCB cart,0,
+Project cost,Large size,,,,fee,JLCPCB cart,0,
+Project cost,Feeders loading fee,,,,fee,JLCPCB cart,29.45,
+Project cost,SMT assembly,,,,fee,JLCPCB cart,3.8,
+Project cost,Hand-soldering labor fee,,,,fee,JLCPCB cart,3.61,
+Project cost,Manual assembly,,,,fee,JLCPCB cart,3,
+Project cost,Packaging fee,,,,fee,JLCPCB cart,0.52,
+Project cost,Special components fee,,,,fee,JLCPCB cart,0.3,
+Project cost,Estimated shipping,,,,shipment,JLCPCB cart,44.13,
+Project cost,Coupon,,,,discount,JLCPCB cart,-9,
